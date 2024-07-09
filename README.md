@@ -6,10 +6,7 @@
 <br>
 <h2 align="center">usage</h2>
 
-first, visit an official url:
-
-- https://build.pretty.boats
-- https://map.onlypuppy7.online
+first, visit [a predeployed version](https://build.pretty.boats) (or if you don't trust me, deploy it yourself).
 
 > [!WARNING]
 > It will NOT work the first time you load the page. BWD made bad code. Just reload once to fix.
